@@ -1,0 +1,14 @@
+button#re_start{
+    font-family: 'Gloria Hallelujah', cursive;
+    background:transparent; 
+
+    border: 1px solid burlywood;
+    margin: 10px auto;
+    padding: 3px 10px;
+    border-radius: 5px;
+    position:relative;
+    display:block;
+}
+button#re_start:active{
+    top:1px; 
+}

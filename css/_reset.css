@@ -1,0 +1,20 @@
+*, *:before, *:after {
+    box-sizing: inherit;
+    margin:0;
+    padding:0;
+}
+
+html{
+    font-size: 10px;
+}
+
+body{
+    box-sizing: border-box;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    user-select: none;
+}
